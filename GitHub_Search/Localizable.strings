@@ -1,0 +1,15 @@
+/* 
+ Localizable.strings
+ GitHub_Search
+ 
+ Created by Alessandro H de Jesus & Gyuyoung Lee on 2021-11-23.
+ */
+
+"user-name %@" = "Name: %@";
+"user-location %@" = "Location: %@";
+"user-company %@" = "Company: %@";
+"user-followers %@" = "Followers: %@";
+"user-public-gists %@" = "Public Gists: %@";
+"user-public-repos %@" = "Public Repos: %@";
+"user-last-update %@" = "Last Update: %@";
+"user-account-created %@" = "Account created: %@"; 
